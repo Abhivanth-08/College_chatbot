@@ -1,0 +1,2637 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.5.0",
+  "name": "CSE-Labs",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 13232006761265337866,
+    "filename": "CSE-Labs.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/groups/5"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 109.66666666666666,
+            "t": 685.0,
+            "r": 137.66666666666669,
+            "b": 657.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "c",
+      "text": "c"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 222.33333333333334,
+            "t": 676.6666666666666,
+            "r": 542.3333333333333,
+            "b": 640.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Department of Computer Science and Engineering",
+      "text": "Department of Computer Science and Engineering",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 105.66666666666666,
+            "t": 657.6666666666666,
+            "r": 141.0,
+            "b": 651.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "COMPUTER",
+      "text": "COMPUTER"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 222.66666666666666,
+            "t": 641.0,
+            "r": 513.0,
+            "b": 617.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "Accredited by NBA Permanently Affiliated to Anna University Chennai",
+      "text": "Accredited by NBA Permanently Affiliated to Anna University Chennai"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 112.33333333333334,
+            "t": 641.6666666666667,
+            "r": 135.0,
+            "b": 617.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "s",
+      "text": "s"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 170.33333333333331,
+            "t": 640.3333333333333,
+            "r": 191.0,
+            "b": 616.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "E",
+      "text": "E"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 160.0,
+            "t": 615.3333333333333,
+            "r": 202.0,
+            "b": 610.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Engineering",
+      "text": "Engineering"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.024,
+            "t": 567.166,
+            "r": 370.126,
+            "b": 556.403,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Laboratories At Computer Science and Engineering",
+      "text": "Laboratories At Computer Science and Engineering",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.024,
+            "t": 534.526,
+            "r": 543.424,
+            "b": 358.143,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            764
+          ]
+        }
+      ],
+      "orig": "The Computer Science and Engineering Program at KPR Institute of Engineering and Technology emphasize hands-on-experiences of students in laboratories .Here we have, Computer Practices Lab, Learning and Intelligent  Systems Lab, Graphics Vision Lab, Networking  and  Mobile  application  Lab,  Software  Systems  Lab,  Python  Lab,  Data structures  Lab,  Oracle  Lab  and  Hardware  Lab  which  are  aligned  with  their  regular curriculum. In addition, the department is committed to develop and maintain state-of-theart labs like Cloud Computing Lab, Intelligent Computing Lab, Data Science Lab, Machine Learning Lab, App Development Centre, and Augmented Reality & Virtual Reality Lab for students and faculty members to up-skill talent to industry standards.",
+      "text": "The Computer Science and Engineering Program at KPR Institute of Engineering and Technology emphasize hands-on-experiences of students in laboratories .Here we have, Computer Practices Lab, Learning and Intelligent  Systems Lab, Graphics Vision Lab, Networking  and  Mobile  application  Lab,  Software  Systems  Lab,  Python  Lab,  Data structures  Lab,  Oracle  Lab  and  Hardware  Lab  which  are  aligned  with  their  regular curriculum. In addition, the department is committed to develop and maintain state-of-theart labs like Cloud Computing Lab, Intelligent Computing Lab, Data Science Lab, Machine Learning Lab, App Development Centre, and Augmented Reality & Virtual Reality Lab for students and faculty members to up-skill talent to industry standards."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.024,
+            "t": 336.146,
+            "r": 253.466,
+            "b": 325.383,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Description of the Laboratories",
+      "text": "Description of the Laboratories",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.024,
+            "t": 315.506,
+            "r": 155.396,
+            "b": 304.743,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Regular Labs:",
+      "text": "Regular Labs:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.024,
+            "t": 283.706,
+            "r": 327.986,
+            "b": 272.943,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "1. High Performance Computing Laboratory",
+      "text": "1. High Performance Computing Laboratory",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.024,
+            "t": 251.99599999999998,
+            "r": 543.388,
+            "b": 75.61300000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            726
+          ]
+        }
+      ],
+      "orig": "Objective of HPC laboratory is to facilitate the students with softwares for carrying out  numerical  computations  and  analyses  using  MATLab  and  tools  necessary  for professional  2D  drawing,  drafting  and  designing  using  AutoCAD.  This  Laboratory  is equipped with Dell OptiPlex 7080 MT, i9 Processor 10th Gen, 16Gb RAM/512 Gb Pcie Nvme SSD ,Dell wireless keyboard and Mouse,22\" Profession Monitor P2219H. There are 70 i9 systems and two i7 systems and one i3 system which is connected with the LCD projector. Operating Systems available are Windows 10 and Ubuntu 20.Other Softwares available are Microsoft Office, Turbo C4, JDK, Python, Anaconda, Net Beans, MATLab, Ansys , AutoCAD and seqrite endpoint security",
+      "text": "Objective of HPC laboratory is to facilitate the students with softwares for carrying out  numerical  computations  and  analyses  using  MATLab  and  tools  necessary  for professional  2D  drawing,  drafting  and  designing  using  AutoCAD.  This  Laboratory  is equipped with Dell OptiPlex 7080 MT, i9 Processor 10th Gen, 16Gb RAM/512 Gb Pcie Nvme SSD ,Dell wireless keyboard and Mouse,22\" Profession Monitor P2219H. There are 70 i9 systems and two i7 systems and one i3 system which is connected with the LCD projector. Operating Systems available are Windows 10 and Ubuntu 20.Other Softwares available are Microsoft Office, Turbo C4, JDK, Python, Anaconda, Net Beans, MATLab, Ansys , AutoCAD and seqrite endpoint security"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 717.556,
+            "r": 336.146,
+            "b": 706.793,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "2. Learning and Intelligent System Laboratory",
+      "text": "2. Learning and Intelligent System Laboratory",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 685.876,
+            "r": 543.424,
+            "b": 550.883,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            593
+          ]
+        }
+      ],
+      "orig": "The objective of Learning and Intelligent Systems Laboratory (LIS) is to impart knowledge on Operating systems, designing principles of Operating Systems and implementation procedure of operating systems. The software tools available in this lab are Fusion 360 software,  CAD,  CAM  and  CAE  tool,  SolidWorks  is  a  solid  modeling  computer-aided design (CAD) and computer-aided engineering (CAE) programs. This lab contains thirty six systems with configuration  of Dell OptiPlex- 7060 MT Intel Core i7 Processor, 8GB RAM ,1TB HDD,GT710 GraCrd, Dell Wired Keyboard & Mouse, 19.5' Monitor.",
+      "text": "The objective of Learning and Intelligent Systems Laboratory (LIS) is to impart knowledge on Operating systems, designing principles of Operating Systems and implementation procedure of operating systems. The software tools available in this lab are Fusion 360 software,  CAD,  CAM  and  CAE  tool,  SolidWorks  is  a  solid  modeling  computer-aided design (CAD) and computer-aided engineering (CAE) programs. This lab contains thirty six systems with configuration  of Dell OptiPlex- 7060 MT Intel Core i7 Processor, 8GB RAM ,1TB HDD,GT710 GraCrd, Dell Wired Keyboard & Mouse, 19.5' Monitor."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 504.166,
+            "r": 284.066,
+            "b": 493.403,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "3. Graphics and Visions Laboratory",
+      "text": "3. Graphics and Visions Laboratory",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 472.486,
+            "r": 543.436,
+            "b": 316.743,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            660
+          ]
+        }
+      ],
+      "orig": "Main Objective of this Graphics and Vision lab is to make students aware of the concepts underlying modern Computer Graphics and Machine Vision. This Lab works on a wide range of projects in computer graphics, vision, and multimedia. Our current focuses are on multimedia visualization. This lab aimed to motivate students to gain the generic skills to  design  algorithms  for  digital  image  synthesis  for  a  broad-based  set  of  computing problems in various domains. This lab contains 35 Dell OptiPlex 3020 DT Desktop Intel core i3-4130 Processor, Intel H81 CHIPSET Motherboard,4 GB RAM DDR3,500 GB HDD machines. Software available are Argo UML, C,C++.",
+      "text": "Main Objective of this Graphics and Vision lab is to make students aware of the concepts underlying modern Computer Graphics and Machine Vision. This Lab works on a wide range of projects in computer graphics, vision, and multimedia. Our current focuses are on multimedia visualization. This lab aimed to motivate students to gain the generic skills to  design  algorithms  for  digital  image  synthesis  for  a  broad-based  set  of  computing problems in various domains. This lab contains 35 Dell OptiPlex 3020 DT Desktop Intel core i3-4130 Processor, Intel H81 CHIPSET Motherboard,4 GB RAM DDR3,500 GB HDD machines. Software available are Argo UML, C,C++."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 278.1859999999999,
+            "r": 364.846,
+            "b": 267.423,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "4. Network Mobile Application Systems Laboratory",
+      "text": "4. Network Mobile Application Systems Laboratory",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 246.356,
+            "r": 546.646,
+            "b": 90.73299999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            671
+          ]
+        }
+      ],
+      "orig": "The objective of this laboratory is to facilitate the resources required to experiment the computer network problems and to develop mobile application software designed to run on mobile and tablet devices.  This Laboratory is equipped with Dell OptiPlex 7080 MT, i9 Processor 10th Gen, 16Gb RAM/512 Gb Pcie Nvme ssd ,Dell wireless keyboard and Mouse,22\" Profession  Monitor P2219H. There  are  70  number  of  i9  systems  and  two number of i7 systems and i3 system which is connected with the LCD projector.Operating Systems available are Windows 10 and Ubuntu 20.The other softwares available are Microsoft Office, Turbo C4, JDK, Python, Android Studio, and Net Beans.",
+      "text": "The objective of this laboratory is to facilitate the resources required to experiment the computer network problems and to develop mobile application software designed to run on mobile and tablet devices.  This Laboratory is equipped with Dell OptiPlex 7080 MT, i9 Processor 10th Gen, 16Gb RAM/512 Gb Pcie Nvme ssd ,Dell wireless keyboard and Mouse,22\" Profession  Monitor P2219H. There  are  70  number  of  i9  systems  and  two number of i7 systems and i3 system which is connected with the LCD projector.Operating Systems available are Windows 10 and Ubuntu 20.The other softwares available are Microsoft Office, Turbo C4, JDK, Python, Android Studio, and Net Beans."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.024,
+            "t": 717.556,
+            "r": 188.756,
+            "b": 706.793,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "5. iMAC Laboratory",
+      "text": "5. iMAC Laboratory",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.024,
+            "t": 685.876,
+            "r": 543.298,
+            "b": 592.313,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            339
+          ]
+        }
+      ],
+      "orig": "The  objective  of  the  iMAC  Laboratory  is  to  give  students  exposure  in  mac Operating System and Application Development in macOS. This laboratory contains 34 Apple systems. The system details are, MXWV2HN/A - 27 - inch iMac with Retina 5K display: 3.8 GHz 8 - core 10 th  generation, intel core i7 processor, 8GB RAM, 512 GB HDD.",
+      "text": "The  objective  of  the  iMAC  Laboratory  is  to  give  students  exposure  in  mac Operating System and Application Development in macOS. This laboratory contains 34 Apple systems. The system details are, MXWV2HN/A - 27 - inch iMac with Retina 5K display: 3.8 GHz 8 - core 10 th  generation, intel core i7 processor, 8GB RAM, 512 GB HDD."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.024,
+            "t": 566.446,
+            "r": 195.356,
+            "b": 555.683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "6. Python Laboratory",
+      "text": "6. Python Laboratory",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.024,
+            "t": 534.646,
+            "r": 543.436,
+            "b": 358.263,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            708
+          ]
+        }
+      ],
+      "orig": "The  main  objective  of  the  Python  Programming  Laboratory  is  to  enlighten  the programming  skills  of  students  and  to  do  variety  of  programming  tasks.  This  lab provisions project development platform for students. The software tools available in this lab are Pycharm, Anaconda Navigator, pygame. Students are encouraged to develop application using pygame. This lab facilitates adequate skills in programming and will be known  to  understand  the  implementation  of  various  applications  using  python.  The hardware components  available in this lab are AO-380DTV,Dell OptiPlex 380 Desktop (N-Series) Core 2 Duo 2.93 GHz,4 GB RAM, 320 GB HDD,17' Square Monitor of seventy two systems.",
+      "text": "The  main  objective  of  the  Python  Programming  Laboratory  is  to  enlighten  the programming  skills  of  students  and  to  do  variety  of  programming  tasks.  This  lab provisions project development platform for students. The software tools available in this lab are Pycharm, Anaconda Navigator, pygame. Students are encouraged to develop application using pygame. This lab facilitates adequate skills in programming and will be known  to  understand  the  implementation  of  various  applications  using  python.  The hardware components  available in this lab are AO-380DTV,Dell OptiPlex 380 Desktop (N-Series) Core 2 Duo 2.93 GHz,4 GB RAM, 320 GB HDD,17' Square Monitor of seventy two systems."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.024,
+            "t": 327.746,
+            "r": 198.716,
+            "b": 316.983,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "7. Oracle Laboratory",
+      "text": "7. Oracle Laboratory",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.024,
+            "t": 294.986,
+            "r": 543.424,
+            "b": 201.39300000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            365
+          ]
+        }
+      ],
+      "orig": "The KPRIET Oracle Lab has been set up to enable students to explore their interested areas. The lab is equipped with 72 systems including i3 processor, 4 GB RAM and 500 GB HD.24/7 internet facility has been created for the benefits of students, faculty and staff members. The lab is also harnessed with various software packages like C, C++, Java, Oracle and so on.",
+      "text": "The KPRIET Oracle Lab has been set up to enable students to explore their interested areas. The lab is equipped with 72 systems including i3 processor, 4 GB RAM and 500 GB HD.24/7 internet facility has been created for the benefits of students, faculty and staff members. The lab is also harnessed with various software packages like C, C++, Java, Oracle and so on."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.024,
+            "t": 717.556,
+            "r": 193.436,
+            "b": 706.793,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Special Laboratories",
+      "text": "Special Laboratories",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 76.584,
+            "t": 685.876,
+            "r": 271.226,
+            "b": 675.113,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "1.  Cloud Computing Laboratory",
+      "text": "1.  Cloud Computing Laboratory",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.024,
+            "t": 654.076,
+            "r": 543.412,
+            "b": 457.043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            850
+          ]
+        }
+      ],
+      "orig": "The main objective of the Cloud Computing Laboratory is to develop fundamental, nextgeneration cloud and storage technologies that support a true application-driven serviceoriented computing. It aimed to develop and deploy native cloud solutions to various realtime  use  cases  at  corporate  standards,  train  the  students  and  faculty  members  to enhance their technical skills related to cloud-based solutions and to facilitate consultancy services to the public. This laboratory constitutes, PowerEdge R6515 Rack Server and Dell  -New OptiPlex 3070 Tower, GB, 1X8GB, DDR4 non-ECC Memory and also Dell OptiPlex  7070  ,16GB,1TB HDD, Dell OptiPlex  -5020 ,8 GM RAM, 1 TB HDD. It also accelerates projects related to Computing Resource Management Techniques, Storage Management Techniques and establishment of secured private cloud environment.",
+      "text": "The main objective of the Cloud Computing Laboratory is to develop fundamental, nextgeneration cloud and storage technologies that support a true application-driven serviceoriented computing. It aimed to develop and deploy native cloud solutions to various realtime  use  cases  at  corporate  standards,  train  the  students  and  faculty  members  to enhance their technical skills related to cloud-based solutions and to facilitate consultancy services to the public. This laboratory constitutes, PowerEdge R6515 Rack Server and Dell  -New OptiPlex 3070 Tower, GB, 1X8GB, DDR4 non-ECC Memory and also Dell OptiPlex  7070  ,16GB,1TB HDD, Dell OptiPlex  -5020 ,8 GM RAM, 1 TB HDD. It also accelerates projects related to Computing Resource Management Techniques, Storage Management Techniques and establishment of secured private cloud environment."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.024,
+            "t": 426.406,
+            "r": 161.996,
+            "b": 415.643,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "List of Projects",
+      "text": "List of Projects",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 90.024,
+            "t": 405.626,
+            "r": 383.566,
+            "b": 394.863,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "\u25cf Cloud Based Patient Monitoring System at Hospital",
+      "text": "Cloud Based Patient Monitoring System at Hospital",
+      "enumerated": false,
+      "marker": "\u25cf"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 90.024,
+            "t": 384.986,
+            "r": 406.246,
+            "b": 374.223,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "\u25cf Secured  Storage On Cloud Using Hybrid Cryptography",
+      "text": "Secured  Storage On Cloud Using Hybrid Cryptography",
+      "enumerated": false,
+      "marker": "\u25cf"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 90.024,
+            "t": 364.226,
+            "r": 496.996,
+            "b": 353.463,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "\u25cf Quality Assurance Solution for Storage as a Service of Cloud Computing",
+      "text": "Quality Assurance Solution for Storage as a Service of Cloud Computing",
+      "enumerated": false,
+      "marker": "\u25cf"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 90.024,
+            "t": 343.586,
+            "r": 406.246,
+            "b": 332.823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "\u25cf Secured Resource Sharing in OpenStack Private Cloud",
+      "text": "Secured Resource Sharing in OpenStack Private Cloud",
+      "enumerated": false,
+      "marker": "\u25cf"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 90.024,
+            "t": 322.826,
+            "r": 546.332,
+            "b": 291.423,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "\u25cf Infrastructure as a Service (IaaS) with Dynamic  Resource  Allocation on OpenStack",
+      "text": "Infrastructure as a Service (IaaS) with Dynamic  Resource  Allocation on OpenStack",
+      "enumerated": false,
+      "marker": "\u25cf"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 90.024,
+            "t": 281.426,
+            "r": 399.526,
+            "b": 270.663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "\u25cf Containerized Application for Freelancing Marketplace",
+      "text": "Containerized Application for Freelancing Marketplace",
+      "enumerated": false,
+      "marker": "\u25cf"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.024,
+            "t": 244.91599999999994,
+            "r": 281.426,
+            "b": 234.15300000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "2. Intelligent Computing Laboratory",
+      "text": "2. Intelligent Computing Laboratory",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.024,
+            "t": 208.31600000000003,
+            "r": 543.4,
+            "b": 73.33299999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            603
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.024,
+            "t": 717.556,
+            "r": 543.436,
+            "b": 561.923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            604,
+            1291
+          ]
+        }
+      ],
+      "orig": "'Can machines think?' This question brought Alan Turing to present several opportunities for the research across the computing stack to explore energy-efficient and appropriate machine  intelligence.  Intelligent  Computing  Lab  facilitates  Faculty members and Students to design, create, and develop innovative IoT based applications and enhance the various domain capabilities across several verticals like Smart Health, Smart Agriculture, Smart Manufacturing, and Smart City, build an entrepreneurial system for Internet of Things by creating a start-up community with industry capable talent. With the  advent  of  Internet  of  Things  (IoT)  and  the  necessity  to  embed  intelligence  in  all technology that surrounds us, this lab focuses on designing truly  functional  intelligent systems. Provide an ecosystem and environment for product design, creation, and testing along with validation and incubation, if required. Key areas focused in this lab are handson training on IoT platforms projects/prototype development for Societal Problems and enhancing projects to products. This lab contains four systems of Dell 390 i3 processor, 4GB  RAM,  500GB  HDD  with  full  set  configuration  and  five  systems  of  Dell  7060  i7 PROCESSOR, 8GB RAM, 1TB HDD, 1GB NVIDIA Graphics.",
+      "text": "'Can machines think?' This question brought Alan Turing to present several opportunities for the research across the computing stack to explore energy-efficient and appropriate machine  intelligence.  Intelligent  Computing  Lab  facilitates  Faculty members and Students to design, create, and develop innovative IoT based applications and enhance the various domain capabilities across several verticals like Smart Health, Smart Agriculture, Smart Manufacturing, and Smart City, build an entrepreneurial system for Internet of Things by creating a start-up community with industry capable talent. With the  advent  of  Internet  of  Things  (IoT)  and  the  necessity  to  embed  intelligence  in  all technology that surrounds us, this lab focuses on designing truly  functional  intelligent systems. Provide an ecosystem and environment for product design, creation, and testing along with validation and incubation, if required. Key areas focused in this lab are handson training on IoT platforms projects/prototype development for Societal Problems and enhancing projects to products. This lab contains four systems of Dell 390 i3 processor, 4GB  RAM,  500GB  HDD  with  full  set  configuration  and  five  systems  of  Dell  7060  i7 PROCESSOR, 8GB RAM, 1TB HDD, 1GB NVIDIA Graphics."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.024,
+            "t": 531.286,
+            "r": 161.996,
+            "b": 520.523,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "List of Projects",
+      "text": "List of Projects",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 162.02,
+            "t": 510.526,
+            "r": 348.886,
+            "b": 499.763,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "\u25cf Automatic Indoor Light On/Off",
+      "text": "Automatic Indoor Light On/Off",
+      "enumerated": false,
+      "marker": "\u25cf"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 162.02,
+            "t": 489.886,
+            "r": 259.466,
+            "b": 479.123,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "\u25cf Smart Dustbin",
+      "text": "Smart Dustbin",
+      "enumerated": false,
+      "marker": "\u25cf"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 162.02,
+            "t": 469.126,
+            "r": 278.786,
+            "b": 458.363,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "\u25cf Secret Doorknock",
+      "text": "Secret Doorknock",
+      "enumerated": false,
+      "marker": "\u25cf"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 162.02,
+            "t": 448.486,
+            "r": 345.386,
+            "b": 437.723,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "\u25cf Smart Vehicle Parking System",
+      "text": "Smart Vehicle Parking System",
+      "enumerated": false,
+      "marker": "\u25cf"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 162.02,
+            "t": 427.726,
+            "r": 366.766,
+            "b": 416.963,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "\u25cf Smart Weather Monitoring System",
+      "text": "Smart Weather Monitoring System",
+      "enumerated": false,
+      "marker": "\u25cf"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 162.02,
+            "t": 407.066,
+            "r": 458.926,
+            "b": 396.303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "\u25cf Intelligent Smart Shopping and Stock notification Kit",
+      "text": "Intelligent Smart Shopping and Stock notification Kit",
+      "enumerated": false,
+      "marker": "\u25cf"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.024,
+            "t": 351.866,
+            "r": 232.706,
+            "b": 341.103,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "3. Data Science Laboratory",
+      "text": "3. Data Science Laboratory",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 72.024,
+            "t": 324.026,
+            "r": 543.436,
+            "b": 85.45299999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1067
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.024,
+            "t": 717.556,
+            "r": 543.436,
+            "b": 644.753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            1068,
+            1376
+          ]
+        }
+      ],
+      "orig": "Data  Science  Lab  is  established  to  practice  and  learn  advanced  technologies  of Computer Science such as Machine Learning, Artificial Intelligence, Deep Learning and Data Mining . Main objective of the Data Science Lab are, to develop new algorithms for data mining, and to use them for social good and to focus on applying machine learning, data mining, and network analysis to real-world problems in society and industry. This lab facilitates to explore novel statistical and computational methods for scalable data mining, machine learning, optimization as well as statistical modelling with complex data sets. It also provides a computing platform for novel languages like Python, R, and OpenCV and other necessary for building a coherent set of ideas, fundamental of Machine Learning, Artificial  Intelligence  and  Deep  Learning  models  and  algorithms.  Data  Science  Lab welcomes students, researchers, interns, faculties, newbies and everyone from a broad range of disciplines who are fascinated with the possibilities of turning big and complex data  to  knowledge.  This  lab  have  totally  nine  systems,  individually    Dell  390  i3 PROCESSOR,  4GB  RAM,  500GB  HDD  with  full  set,  five  systems  of  Dell  7060  i7 PROCESSOR, 8GB RAM, 1TB HDD, 1GB NVIDIA Graphics and three systems of Dell 3020 i3 PROCESSOR, 4GB RAM, 500GB HDD configuration.",
+      "text": "Data  Science  Lab  is  established  to  practice  and  learn  advanced  technologies  of Computer Science such as Machine Learning, Artificial Intelligence, Deep Learning and Data Mining . Main objective of the Data Science Lab are, to develop new algorithms for data mining, and to use them for social good and to focus on applying machine learning, data mining, and network analysis to real-world problems in society and industry. This lab facilitates to explore novel statistical and computational methods for scalable data mining, machine learning, optimization as well as statistical modelling with complex data sets. It also provides a computing platform for novel languages like Python, R, and OpenCV and other necessary for building a coherent set of ideas, fundamental of Machine Learning, Artificial  Intelligence  and  Deep  Learning  models  and  algorithms.  Data  Science  Lab welcomes students, researchers, interns, faculties, newbies and everyone from a broad range of disciplines who are fascinated with the possibilities of turning big and complex data  to  knowledge.  This  lab  have  totally  nine  systems,  individually    Dell  390  i3 PROCESSOR,  4GB  RAM,  500GB  HDD  with  full  set,  five  systems  of  Dell  7060  i7 PROCESSOR, 8GB RAM, 1TB HDD, 1GB NVIDIA Graphics and three systems of Dell 3020 i3 PROCESSOR, 4GB RAM, 500GB HDD configuration."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.024,
+            "t": 622.756,
+            "r": 168.716,
+            "b": 611.993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "List of Projects",
+      "text": "List of Projects",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 90.024,
+            "t": 594.916,
+            "r": 339.626,
+            "b": 584.153,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "\u25cf Predict weight based on height and gender",
+      "text": "Predict weight based on height and gender",
+      "enumerated": false,
+      "marker": "\u25cf"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 90.024,
+            "t": 574.156,
+            "r": 406.246,
+            "b": 563.393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "\u25cf Predicting quality of wine using classification algorithms",
+      "text": "Predicting quality of wine using classification algorithms",
+      "enumerated": false,
+      "marker": "\u25cf"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 90.024,
+            "t": 553.486,
+            "r": 404.926,
+            "b": 542.723,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "\u25cf Detecting fake news using machine learning algorithms",
+      "text": "Detecting fake news using machine learning algorithms",
+      "enumerated": false,
+      "marker": "\u25cf"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.024,
+            "t": 492.886,
+            "r": 260.066,
+            "b": 482.123,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "4. Machine Learning Laboratory",
+      "text": "4. Machine Learning Laboratory",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.024,
+            "t": 465.046,
+            "r": 543.436,
+            "b": 185.19299999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1187
+          ]
+        }
+      ],
+      "orig": "Machine  Learning  Lab  is  established  to  develop  autonomous  decision-making systems,  which  close  the  perception-action-learning  loop  while  learning  from  small amounts of data. The laboratory aims to promote and lead scientific advances in dataefficient machine learning, Research areas that fall into this category include probabilistic modelling, incorporation of domain or structural prior knowledge, transfer learning, semisupervised learning, active learning, Bayesian optimization and reinforcement learning. The lab facilitates faculty members and students to enrich their knowledge in the area of Artificial  Intelligence  and  Data  Science.  The  lab  facility  is  created  for  all  branches  of students to implement their projects and products related to Machine learning. Key areas with the use of ML includes training, project Implementation and events. This lab contains system five systems of DELL 7060 i7 PROCESSOR, 8GB RAM, 1TB HDD, 1GB NVIDIA Graphics, two systems of DELL 3020 i3 PROCESSOR, 4GB RAM, 500GB HDD, one system of  DELL 3020 i3 PROCESSOR, 4GB RAM, 320GB HDD and one more system with DELL 3020 i3 PROCESSOR, 4GB RAM, 160GB HDD configuration.",
+      "text": "Machine  Learning  Lab  is  established  to  develop  autonomous  decision-making systems,  which  close  the  perception-action-learning  loop  while  learning  from  small amounts of data. The laboratory aims to promote and lead scientific advances in dataefficient machine learning, Research areas that fall into this category include probabilistic modelling, incorporation of domain or structural prior knowledge, transfer learning, semisupervised learning, active learning, Bayesian optimization and reinforcement learning. The lab facilitates faculty members and students to enrich their knowledge in the area of Artificial  Intelligence  and  Data  Science.  The  lab  facility  is  created  for  all  branches  of students to implement their projects and products related to Machine learning. Key areas with the use of ML includes training, project Implementation and events. This lab contains system five systems of DELL 7060 i7 PROCESSOR, 8GB RAM, 1TB HDD, 1GB NVIDIA Graphics, two systems of DELL 3020 i3 PROCESSOR, 4GB RAM, 500GB HDD, one system of  DELL 3020 i3 PROCESSOR, 4GB RAM, 320GB HDD and one more system with DELL 3020 i3 PROCESSOR, 4GB RAM, 160GB HDD configuration."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.024,
+            "t": 154.55600000000004,
+            "r": 165.356,
+            "b": 143.793,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "List of projects:",
+      "text": "List of projects:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 90.024,
+            "t": 122.63599999999997,
+            "r": 158.036,
+            "b": 111.87300000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "\u25cf AI Assist",
+      "text": "AI Assist",
+      "enumerated": false,
+      "marker": "\u25cf"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 90.024,
+            "t": 97.65599999999995,
+            "r": 293.546,
+            "b": 86.89300000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "\u25cf Object identification and Detection",
+      "text": "Object identification and Detection",
+      "enumerated": false,
+      "marker": "\u25cf"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 90.024,
+            "t": 717.556,
+            "r": 227.426,
+            "b": 706.793,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "\u25cf Face Mask Detection",
+      "text": "Face Mask Detection",
+      "enumerated": false,
+      "marker": "\u25cf"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 90.024,
+            "t": 696.916,
+            "r": 282.146,
+            "b": 686.153,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "\u25cf Chatbot Recommender System",
+      "text": "Chatbot Recommender System",
+      "enumerated": false,
+      "marker": "\u25cf"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.024,
+            "t": 644.476,
+            "r": 256.706,
+            "b": 633.713,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "5. App Development Laboratory",
+      "text": "5. App Development Laboratory",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.024,
+            "t": 612.676,
+            "r": 543.424,
+            "b": 436.283,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            711
+          ]
+        }
+      ],
+      "orig": "Our mission is to provide commercial, high quality innovative solutions for day to day requirements. We keep on updating the students with ongoing technologies to transfer them as professional app developers. We guide our students to acquire knowledge and experience that helps and steer them in the right direction.  The Lab provides a very good platform to showcase their ideas and to be self- innovative. It bridges the gap between what  students  learn  and  what  is  expected  from  them  in  the  highly  demanding industries. Students are trained to acquire knowledge regarding the marriage of mobile communications and social networking, and begin to design the future of open-source social networking.",
+      "text": "Our mission is to provide commercial, high quality innovative solutions for day to day requirements. We keep on updating the students with ongoing technologies to transfer them as professional app developers. We guide our students to acquire knowledge and experience that helps and steer them in the right direction.  The Lab provides a very good platform to showcase their ideas and to be self- innovative. It bridges the gap between what  students  learn  and  what  is  expected  from  them  in  the  highly  demanding industries. Students are trained to acquire knowledge regarding the marriage of mobile communications and social networking, and begin to design the future of open-source social networking."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 72.024,
+            "t": 426.406,
+            "r": 543.206,
+            "b": 374.223,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            224
+          ]
+        }
+      ],
+      "orig": "Team of students and Mr.Somasundaram, a member of Google Developer Team for an event  titled  Bizarria-2020  on  January  9 th   &  10 th ,  2020  gathered  that  leads  to  kick  off various Mobile App development projects.",
+      "text": "Team of students and Mr.Somasundaram, a member of Google Developer Team for an event  titled  Bizarria-2020  on  January  9 th   &  10 th ,  2020  gathered  that  leads  to  kick  off various Mobile App development projects."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 169.7,
+            "t": 104.13599999999997,
+            "r": 445.726,
+            "b": 93.37300000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "Event : Bizarria-2020 on January 9 th  & 10 th , 2020",
+      "text": "Event : Bizarria-2020 on January 9 th  & 10 th , 2020"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 101.0,
+            "t": 135.66666666666663,
+            "r": 135.0,
+            "b": 129.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "QUAD CAMERA",
+      "text": "QUAD CAMERA"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.024,
+            "t": 717.556,
+            "r": 246.746,
+            "b": 706.793,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "List of Applications Launched",
+      "text": "List of Applications Launched",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.024,
+            "t": 688.876,
+            "r": 543.25,
+            "b": 636.713,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "1. Food Serve App developed by Ms.M.Salomisamsudeen,AP(Sr.G)/CSE and students team - Mr.Titu Joachin & Mr.Suriya. The app was successfully tested and deployed in M2M restaurant, Mysore.",
+      "text": "Food Serve App developed by Ms.M.Salomisamsudeen,AP(Sr.G)/CSE and students team - Mr.Titu Joachin & Mr.Suriya. The app was successfully tested and deployed in M2M restaurant, Mysore.",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.024,
+            "t": 618.796,
+            "r": 543.286,
+            "b": 545.843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            216
+          ]
+        }
+      ],
+      "orig": "2. E-Chief Attendance Monitoring system developed by Ms.M.Salomisamsudeen,AP(Sr.G)/CSE and students team- Mr.Gnanavel & Mr.Guruvel was successfully launched in the department of Computer Science & Engineering,KPRIET.",
+      "text": "E-Chief Attendance Monitoring system developed by Ms.M.Salomisamsudeen,AP(Sr.G)/CSE and students team- Mr.Gnanavel & Mr.Guruvel was successfully launched in the department of Computer Science & Engineering,KPRIET.",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.024,
+            "t": 527.926,
+            "r": 255.386,
+            "b": 517.163,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Memorandum of understanding",
+      "text": "Memorandum of understanding",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.024,
+            "t": 448.726,
+            "r": 543.31,
+            "b": 417.323,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "Signed  MOU  with  AGENESINFO  OMICS  PRIVATE  LIMITED,  SECUNDERABAD  in 2021.",
+      "text": "Signed  MOU  with  AGENESINFO  OMICS  PRIVATE  LIMITED,  SECUNDERABAD  in 2021."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.024,
+            "t": 399.266,
+            "r": 147.356,
+            "b": 388.503,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Consultancy",
+      "text": "Consultancy",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.024,
+            "t": 370.586,
+            "r": 543.358,
+            "b": 318.423,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            250
+          ]
+        }
+      ],
+      "orig": "Professors from the Department of Computer Science and Engineering - Dr.N.Jayanthi, Dr.A.Devipriya, Ms.M.Salomisamsudeen & Ms.J.K.Kiruthika developed a web application for Agenesinfo Omics Private Limited. Generated revenue by delivering the product.",
+      "text": "Professors from the Department of Computer Science and Engineering - Dr.N.Jayanthi, Dr.A.Devipriya, Ms.M.Salomisamsudeen & Ms.J.K.Kiruthika developed a web application for Agenesinfo Omics Private Limited. Generated revenue by delivering the product."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.024,
+            "t": 300.626,
+            "r": 204.116,
+            "b": 289.863,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "6. AR & VR Laboratory",
+      "text": "6. AR & VR Laboratory",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.024,
+            "t": 277.586,
+            "r": 543.436,
+            "b": 121.95299999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            667
+          ]
+        }
+      ],
+      "orig": "The Augmented Reality and Virtual Reality Laboratory is a unique, world-class, cuttingedge virtual reality facility  designed for developing augmented reality (AR) and virtual reality  (VR)  solutions.  The  lab  facilitate  faculty  members  and  students  to  visualize designs,  develop  immersive  VR  environments,  and  to  experiment  new  VR  and  AR technologies. The facility is created for all branches of students to design and prototype their solution. Key areas with the use of AR & VR includes training, prototyping/design, events. This lab contains one Alienware Aurora R9 Gaming Desktop system and two systems of Dell G5 Gaming Desktop Specification.",
+      "text": "The Augmented Reality and Virtual Reality Laboratory is a unique, world-class, cuttingedge virtual reality facility  designed for developing augmented reality (AR) and virtual reality  (VR)  solutions.  The  lab  facilitate  faculty  members  and  students  to  visualize designs,  develop  immersive  VR  environments,  and  to  experiment  new  VR  and  AR technologies. The facility is created for all branches of students to design and prototype their solution. Key areas with the use of AR & VR includes training, prototyping/design, events. This lab contains one Alienware Aurora R9 Gaming Desktop system and two systems of Dell G5 Gaming Desktop Specification."
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 72.024,
+            "t": 717.556,
+            "r": 161.396,
+            "b": 706.793,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "List of projects",
+      "text": "List of projects",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 90.024,
+            "t": 685.756,
+            "r": 302.906,
+            "b": 674.993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "\u25cf Deployable virtual reality application",
+      "text": "Deployable virtual reality application",
+      "enumerated": false,
+      "marker": "\u25cf"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 90.024,
+            "t": 660.556,
+            "r": 249.386,
+            "b": 649.793,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "\u25cf Simulation of the campus",
+      "text": "Simulation of the campus",
+      "enumerated": false,
+      "marker": "\u25cf"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 90.024,
+            "t": 639.916,
+            "r": 283.466,
+            "b": 629.153,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "\u25cf Modeling of the research facility",
+      "text": "Modeling of the research facility",
+      "enumerated": false,
+      "marker": "\u25cf"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 94.85906982421875,
+            "t": 689.8368530273438,
+            "r": 540.1664428710938,
+            "b": 604.8143005371094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 71.63703918457031,
+            "t": 330.60345458984375,
+            "r": 523.5068359375,
+            "b": 121.1270751953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/60"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 229.49642944335938,
+            "t": 502.7722473144531,
+            "r": 382.2022705078125,
+            "b": 465.54107666015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 9
+    }
+  }
+}
