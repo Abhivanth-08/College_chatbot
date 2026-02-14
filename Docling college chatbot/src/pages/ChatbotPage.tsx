@@ -105,9 +105,9 @@ const ChatbotPage = () => {
       <header className="border-b border-border/30 bg-background/10 backdrop-blur-lg">
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center space-x-4">
-            <Button 
-              variant="ghost" 
-              size="sm" 
+            <Button
+              variant="ghost"
+              size="sm"
               onClick={() => navigate('/')}
               className="text-foreground hover:bg-white/10"
             >
@@ -134,22 +134,20 @@ const ChatbotPage = () => {
             {messages.map((message) => (
               <div
                 key={message.id}
-                className={`flex items-start space-x-3 ${
-                  message.isUser ? 'justify-end' : 'justify-start'
-                }`}
+                className={`flex items-start space-x-3 ${message.isUser ? 'justify-end' : 'justify-start'
+                  }`}
               >
                 {!message.isUser && (
                   <div className="bg-gradient-primary p-2 rounded-full glow-subtle">
                     <Bot className="h-4 w-4 text-white" />
                   </div>
                 )}
-                
+
                 <div
-                  className={`max-w-[80%] p-4 rounded-2xl ${
-                    message.isUser
+                  className={`max-w-[80%] p-4 rounded-2xl ${message.isUser
                       ? 'bg-primary text-primary-foreground ml-auto'
                       : 'bg-muted/80 text-foreground'
-                  } ${message.isUser ? '' : 'glow-subtle'}`}
+                    } ${message.isUser ? '' : 'glow-subtle'}`}
                 >
                   <div
                     className="text-sm leading-relaxed"
@@ -182,7 +180,7 @@ const ChatbotPage = () => {
                 </div>
               </div>
             )}
-            
+
             <div ref={messagesEndRef} />
           </div>
 
