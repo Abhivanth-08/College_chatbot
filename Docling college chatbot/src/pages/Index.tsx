@@ -30,37 +30,22 @@ const Index = () => {
 
   const features = [
     {
-      icon: GraduationCap,
-      title: "Admission Information",
-      description: "Get instant answers about admission requirements, deadlines, and application procedures."
-    },
-    {
-      icon: Calendar,
-      title: "Course Details",
-      description: "Explore course curricula, schedules, faculty information, and academic programs."
-    },
-    {
-      icon: Home,
-      title: "Hostel Information",
-      description: "Find details about hostel facilities, room allocation, and accommodation options."
-    },
-    {
-      icon: Utensils,
-      title: "Food Ordering",
-      description: "Order food from campus cafeterias and track your meal preferences.",
-      comingSoon: true
+      icon: MessageSquare,
+      title: "AI Chatbot Assistant",
+      description: "Want to know about the college? Get instant answers about admissions, courses, facilities, and more.",
+      route: "/chatbot"
     },
     {
       icon: MapPin,
       title: "Campus Navigation",
-      description: "Get directions to buildings, facilities, and important campus locations.",
-      comingSoon: true
+      description: "Find your way around campus with interactive directions to buildings, facilities, and important locations.",
+      route: "/campus-navigation"
     },
     {
-      icon: Users,
-      title: "Student Services",
-      description: "Access information about student activities, clubs, and support services.",
-      comingSoon: true
+      icon: GraduationCap,
+      title: "Exam Prep Guide",
+      description: "Enter course code, pick CIAT-1/CIAT-2/Sem and get important questions in a chat-like stream.",
+      route: "/exam-prep"
     }
   ];
 
@@ -175,20 +160,19 @@ const Index = () => {
               return (
                 <Card 
                   key={index} 
-                  className="glass p-6 glow-hover transition-smooth hover:scale-105 relative"
+                  className="glass p-6 glow-hover transition-smooth hover:scale-105 relative cursor-pointer"
+                  onClick={() => navigate(feature.route)}
                 >
                   <Icon className="h-10 w-10 mb-4 text-primary" />
-                  <h3 className="text-xl font-semibold mb-3 text-foreground flex items-center gap-2">
+                  <h3 className="text-xl font-semibold mb-3 text-foreground">
                     {feature.title}
-                    {feature.comingSoon && (
-                      <span className="text-xs bg-accent/20 text-accent px-2 py-1 rounded-full">
-                        Coming Soon
-                      </span>
-                    )}
                   </h3>
-                  <p className="text-foreground/70">
+                  <p className="text-foreground/70 mb-4">
                     {feature.description}
                   </p>
+                  <Button variant="gradient" className="w-full">
+                    Explore
+                  </Button>
                 </Card>
               );
             })}
