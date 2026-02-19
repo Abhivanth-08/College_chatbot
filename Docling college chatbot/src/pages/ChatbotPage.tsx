@@ -49,8 +49,10 @@ const ChatbotPage = () => {
     setInputText('');
     setIsTyping(true);
 
+    const BACKEND_URL = 'https://abhi02072005-college-chatbot-backend.hf.space';
+
     try {
-      const response = await axios.post('https://abhi02072005-college-chatbot-backend.hf.space/ask', {
+      const response = await axios.post(`${BACKEND_URL}/ask`, {
         question: currentInputText,
       });
 
@@ -58,7 +60,8 @@ const ChatbotPage = () => {
 
       let botText = "Sorry, something went wrong.";
       if (response.data.answer) {
-        botText = response.data.answer;
+        // Replace any localhost PDF URLs with the production backend URL
+        botText = response.data.answer.replace(/http:\/\/localhost:\d+/g, BACKEND_URL);
       } else if (response.data.error) {
         botText = "Error: " + response.data.error;
       }
