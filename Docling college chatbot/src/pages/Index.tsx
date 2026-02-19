@@ -163,8 +163,8 @@ const Index = () => {
                 <Card
                   key={index}
                   className={`glass p-6 transition-smooth relative ${feature.comingSoon
-                      ? 'opacity-75 cursor-not-allowed'
-                      : 'glow-hover hover:scale-105 cursor-pointer'
+                    ? 'opacity-75 cursor-not-allowed'
+                    : 'glow-hover hover:scale-105 cursor-pointer'
                     }`}
                   onClick={() => !feature.comingSoon && navigate(feature.route)}
                 >
@@ -306,7 +306,7 @@ const Index = () => {
             <span className="text-lg font-semibold text-foreground">KPRIET AI Assistant</span>
           </div>
           <p className="text-foreground/60">
-            © 2024 KPRIET AI Assistant. All rights reserved. Powered by advanced AI technology.
+            © 2026 KPRIET AI Assistant. All rights reserved. Powered by advanced AI technology.
           </p>
         </div>
       </footer>
