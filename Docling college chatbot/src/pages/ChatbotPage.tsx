@@ -50,7 +50,7 @@ const ChatbotPage = () => {
     setIsTyping(true);
 
     try {
-      const response = await axios.post('http://localhost:8000/ask', {
+      const response = await axios.post('https://abhi02072005-college-chatbot-backend.hf.space/ask', {
         question: currentInputText,
       });
 
@@ -145,8 +145,8 @@ const ChatbotPage = () => {
 
                 <div
                   className={`max-w-[80%] p-4 rounded-2xl ${message.isUser
-                      ? 'bg-primary text-primary-foreground ml-auto'
-                      : 'bg-muted/80 text-foreground'
+                    ? 'bg-primary text-primary-foreground ml-auto'
+                    : 'bg-muted/80 text-foreground'
                     } ${message.isUser ? '' : 'glow-subtle'}`}
                 >
                   <div
